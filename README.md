@@ -112,5 +112,7 @@ Ce projet est sous la licence [MIT](https://opensource.org/licenses/MIT). Vous p
 
 
 ---
+## Video
 
-N'hésitez pas à me faire savoir si vous avez besoin d'autres ajouts ou modifications !
+https://github.com/user-attachments/assets/660b0020-fcfa-4f64-adcf-d7d95233a49b
+
