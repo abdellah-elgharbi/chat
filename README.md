@@ -1,4 +1,4 @@
-Voici une version complète et structurée de votre projet de mini application de chat, intégrant toutes les informations que vous avez fournies, y compris l'objectif, les fonctionnalités, l'architecture, la hiérarchie des paquets et les descriptions des interfaces utilisateur.
+
 
 ---
 
@@ -108,9 +108,8 @@ L’objectif de ce TP est de concevoir et développer une application de chat en
 
 Ce projet est sous la licence [MIT](https://opensource.org/licenses/MIT). Vous pouvez librement utiliser, modifier et distribuer le code, à condition d'inclure le droit d'auteur et la licence dans toutes les copies ou portions substantielles du logiciel.
 
-## Lien GitHub
 
-Vous pouvez trouver le code source du projet sur GitHub à l'adresse suivante : [https://github.com/votre-utilisateur/mini-chat-app](https://github.com/votre-utilisateur/mini-chat-app). (Remplacez `votre-utilisateur` par votre nom d'utilisateur GitHub réel.)
+
 
 ---
 
